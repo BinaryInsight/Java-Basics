@@ -1,4 +1,7 @@
-package com.javabasics.Objects;
+package com.javabasics.Objects.ReferenceVariable;
+
+// Main method within the Class
+// Initializing through a Reference Variable (student)
 
 public class Student {
 
