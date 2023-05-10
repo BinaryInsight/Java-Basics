@@ -1,4 +1,4 @@
-package com.javabasics.Polymorphism;
+package com.javabasics.Polymorphism.Bike;
 
 public class Bike {
 
