@@ -1,4 +1,4 @@
-package com.javabasics.Polymorphism.Bank;
+package com.javabasics.Polymorphism.MethodOverriding.Bank;
 
 public class Bank {
 

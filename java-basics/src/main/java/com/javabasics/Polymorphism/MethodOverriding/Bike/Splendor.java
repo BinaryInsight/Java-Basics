@@ -1,4 +1,4 @@
-package com.javabasics.Polymorphism.Bike;
+package com.javabasics.Polymorphism.MethodOverriding.Bike;
 
 // Here, Splendor class extends Bike class and overrides its "run()" method
 

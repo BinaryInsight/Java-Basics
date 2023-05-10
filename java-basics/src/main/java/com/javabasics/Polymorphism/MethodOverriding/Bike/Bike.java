@@ -1,4 +1,4 @@
-package com.javabasics.Polymorphism.Bike;
+package com.javabasics.Polymorphism.MethodOverriding.Bike;
 
 public class Bike {
 
