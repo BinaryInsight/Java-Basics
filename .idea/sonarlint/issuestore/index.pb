@@ -363,5 +363,3 @@ w
 G.idea/sonarlint/issuestore/6/3/633e4fdfb1c840431c92f2099e170c167e64fae8,a\5\a5ceedb5021642f5a8d3f5ac263953be892595c7
 w
 G.idea/sonarlint/issuestore/6/2/6284eecedd2d85fb3913164f96df4582210062ba,3\6\366cb1d8165337cf751d46e52ec19284003b6299
-
-Ojava-basics/src/main/java/com/javabasics/Objects/ReferenceVariable/Student.java,0\5\05fedb5e0c005ba61de1286a2b053c8cd5c417be
