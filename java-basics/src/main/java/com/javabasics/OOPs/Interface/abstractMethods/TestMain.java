@@ -1,4 +1,4 @@
-package com.javabasics.OOPs.Interface;
+package com.javabasics.OOPs.Interface.abstractMethods;
 
 //  Interface in java is a blueprint of a class. It has abstract methods
 //  Interface in java is used to achieve abstraction.

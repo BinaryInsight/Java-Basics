@@ -1,4 +1,4 @@
-package com.javabasics.OOPs.Interface;
+package com.javabasics.OOPs.Interface.abstractMethods;
 
 public class Circle implements Drawing {
 

@@ -45,6 +45,7 @@ public class Mobiles {
         mobiles.add(null);
         System.out.println("Updated elements: " + mobiles);
 
+
         // clearing the set
         mobiles.clear();
         System.out.println("Set after clearing: " + mobiles);
