@@ -5,7 +5,7 @@ import java.util.Set;
 //  Set interface represents an unordered collection of unique elements
 //  It does not allow duplicate elements, and does not maintain the insertion order of elements
 
-//  Fruits is a class in java that implements Set interface
+//  HashSet is a class in java that implements Set interface
 //  It represents the collection that uses a hash table for storage
 
 public class Fruits {
