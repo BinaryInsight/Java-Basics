@@ -4,6 +4,6 @@ abstract class Bike{
     Bike(){
         System.out.println("bike is created");
     }
-     abstract void run() ;
-    void changeGear(){System.out.println("gear changed");}
+     abstract void run() ;      // abstract method
+    void changeGear(){System.out.println("gear changed");}      // concrete method
 }
